@@ -1,13 +1,14 @@
-Welcome to Lumache's documentation!
+Welcome to XML Learning Summary
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+Group Members:  
+**Roweal S. Fabre** - The main creator, **Awlyn Labrador**, **John Rovic Magnipis**, **Ilyn Besona**  
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Introduction to XML
+-------------------
+
+During our time in **IT6/L**, together with my groupmates, we learned that XML (Extensible Markup Language) is a widely used language for structuring and storing data in a readable format.  
+Unlike HTML, which focuses on displaying content, XML is designed for **data storage and transportation**. It allows users to define their own tags, making it highly flexible and applicable across different industries.
 
 .. note::
 
@@ -17,6 +18,16 @@ Contents
 --------
 
 .. toctree::
+   :maxdepth: 2
 
-   usage
-   api
+   xml_tutorial
+   xml_ajax
+   xml_dom
+   xpath_tutorial
+   xslt_tutorial
+   xquery_tutorial
+   xml_dtd
+   xml_schema
+   xml_data_types
+   web_services
+
