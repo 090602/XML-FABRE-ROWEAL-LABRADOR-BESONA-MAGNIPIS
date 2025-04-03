@@ -20,6 +20,7 @@ Contents
 .. toctree::
    :maxdepth: 2
 
+   usage
    xml_tutorial/index
    xml_ajax/index
    xml_dom/index
