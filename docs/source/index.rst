@@ -20,13 +20,13 @@ Contents
 .. toctree::
    :maxdepth: 2
 
-   xml_tutorial
-   xml_ajax
-   xml_dom
-   xpath_tutorial
-   xslt_tutorial
-   xquery_tutorial
-   xml_dtd
+   xml_tutorial/index
+   xml_ajax/index
+   xml_dom/index
+   xpath_tutorial/index
+   xslt_tutorial/index
+   xquery_tutorial/index
+   xml_dtd/index
    xml_schema
    xml_data_types
    web_services
